@@ -2,7 +2,6 @@
 
 ### Author: Viren Varma
 
-*Code reused from Nicholas Meyer's Fall 2023 submission and Agam Shah (ChatGPT was used to look up snippets of the code here and rephrase text to make them sound clearer at some places).*
 
 ---
 
